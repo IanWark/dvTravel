@@ -1,0 +1,3414 @@
+object TStyleContainer
+  object TLayout
+    StyleName = 'NormalListBoxItem'
+    Align = Center
+    Size.Width = 786.000000000000000000
+    Size.Height = 70.000000000000000000
+    Size.PlatformDefault = False
+    Visible = False
+    TabOrder = 0
+    object TActiveStyleObject
+      StyleName = 'background_separatorbottom'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_sharp'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_roundbottom'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_roundtop'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_roundall'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'accessorymore'
+      Align = MostRight
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 30.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      WrapMode = Center
+      Visible = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      SourceLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      TouchAnimation.Link = <>
+    end
+    object TActiveStyleObject
+      StyleName = 'accessorycheckmark'
+      Align = MostRight
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 30.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      WrapMode = Center
+      Visible = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          SourceRect.Left = 269.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 301.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 416.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 464.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 525.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 589.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 789.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 885.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      SourceLink = <
+        item
+          SourceRect.Left = 269.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 301.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 416.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 464.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 525.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 589.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 789.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 885.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      TouchAnimation.Link = <>
+    end
+    object TActiveStyleObject
+      StyleName = 'accessorydetail'
+      Align = MostRight
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 40.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      WrapMode = Center
+      Visible = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 366.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 398.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 563.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 611.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 727.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 791.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 1096.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1192.000000000000000000
+        end>
+      SourceLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 366.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 398.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 563.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 611.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 727.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 791.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 1096.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1192.000000000000000000
+        end>
+      TouchAnimation.Link = <>
+    end
+    object TCheckBox
+      StyleName = 'check'
+      Align = MostLeft
+      CanFocus = False
+      DisableFocusEffect = True
+      Margins.Left = 10.000000000000000000
+      Size.Width = 25.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'ListBoxItem2Style1CheckBoxStyle1'
+      Visible = False
+    end
+    object TGlyph
+      StyleName = 'glyphstyle'
+      Margins.Left = 2.000000000000000000
+      Margins.Top = 2.000000000000000000
+      Margins.Right = 2.000000000000000000
+      Margins.Bottom = 2.000000000000000000
+      Align = MostLeft
+      Size.Width = 44.000000000000000000
+      Size.Height = 16.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object TImage
+      StyleName = 'icon'
+      MultiResBitmap = <
+        item
+        end>
+      Align = MostLeft
+      HitTest = False
+      Position.X = 20.000000000000000000
+      Size.Width = 44.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      Visible = False
+    end
+    object TActiveStyleTextObject
+      StyleName = 'detail'
+      Align = Contents
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 1.000000000000000000
+      Margins.Right = 1.000000000000000000
+      Margins.Bottom = 1.000000000000000000
+      Size.Width = 780.000000000000000000
+      Size.Height = 68.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'detial'
+      TextSettings.Font.Family = '@Arial Unicode MS'
+      TextSettings.Font.Size = 14.000000000000000000
+      TextSettings.Trimming = Character
+      TextSettings.WordWrap = False
+      TextSettings.HorzAlign = Leading
+      ShadowVisible = False
+      ActiveTrigger = Selected
+      ActiveColor = claBlack
+    end
+    object TActiveStyleTextObject
+      StyleName = 'text'
+      Align = Contents
+      Margins.Left = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Size.Width = 766.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 18.000000000000000000
+      TextSettings.FontColor = xFF222222
+      TextSettings.Trimming = Character
+      TextSettings.WordWrap = False
+      TextSettings.HorzAlign = Leading
+      Visible = False
+      ShadowVisible = False
+      ActiveTrigger = Selected
+      ActiveColor = xFF222222
+    end
+  end
+  object TLayout
+    StyleName = 'HeaderListBoxItem'
+    Align = Center
+    Size.Width = 786.000000000000000000
+    Size.Height = 70.000000000000000000
+    Size.PlatformDefault = False
+    Visible = False
+    TabOrder = 1
+    object TActiveStyleObject
+      StyleName = 'background_separatorbottom'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_sharp'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_roundbottom'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_roundtop'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_roundall'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'accessorymore'
+      Align = MostRight
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 30.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      WrapMode = Center
+      Visible = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      SourceLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      TouchAnimation.Link = <>
+    end
+    object TActiveStyleObject
+      StyleName = 'accessorycheckmark'
+      Align = MostRight
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 30.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      WrapMode = Center
+      Visible = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          SourceRect.Left = 269.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 301.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 416.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 464.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 525.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 589.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 789.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 885.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      SourceLink = <
+        item
+          SourceRect.Left = 269.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 301.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 416.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 464.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 525.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 589.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 789.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 885.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      TouchAnimation.Link = <>
+    end
+    object TActiveStyleObject
+      StyleName = 'accessorydetail'
+      Align = MostRight
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 40.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      WrapMode = Center
+      Visible = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 366.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 398.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 563.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 611.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 727.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 791.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 1096.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1192.000000000000000000
+        end>
+      SourceLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 366.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 398.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 563.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 611.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 727.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 791.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 1096.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1192.000000000000000000
+        end>
+      TouchAnimation.Link = <>
+    end
+    object TCheckBox
+      StyleName = 'check'
+      Align = MostLeft
+      CanFocus = False
+      DisableFocusEffect = True
+      Margins.Left = 10.000000000000000000
+      Size.Width = 25.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'ListBoxItem2Style1CheckBoxStyle1'
+      Visible = False
+    end
+    object TGlyph
+      StyleName = 'glyphstyle'
+      Margins.Left = 2.000000000000000000
+      Margins.Top = 2.000000000000000000
+      Margins.Right = 2.000000000000000000
+      Margins.Bottom = 2.000000000000000000
+      Align = MostLeft
+      Size.Width = 44.000000000000000000
+      Size.Height = 16.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object TImage
+      StyleName = 'icon'
+      MultiResBitmap = <
+        item
+        end>
+      Align = MostLeft
+      HitTest = False
+      Position.X = 20.000000000000000000
+      Size.Width = 44.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      Visible = False
+    end
+    object TActiveStyleTextObject
+      StyleName = 'detail'
+      Align = Contents
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 1.000000000000000000
+      Margins.Right = 1.000000000000000000
+      Margins.Bottom = 1.000000000000000000
+      Size.Width = 780.000000000000000000
+      Size.Height = 68.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'detial'
+      TextSettings.Font.Family = '@Arial Unicode MS'
+      TextSettings.Font.Size = 18.000000000000000000
+      TextSettings.Trimming = Character
+      TextSettings.WordWrap = False
+      TextSettings.HorzAlign = Leading
+      ShadowVisible = False
+      ActiveTrigger = Selected
+      ActiveColor = claBlack
+    end
+    object TActiveStyleTextObject
+      StyleName = 'text'
+      Align = Contents
+      Margins.Left = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Size.Width = 766.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Text'
+      TextSettings.Font.Size = 18.000000000000000000
+      TextSettings.FontColor = xFF222222
+      TextSettings.Trimming = Character
+      TextSettings.WordWrap = False
+      TextSettings.HorzAlign = Leading
+      Visible = False
+      ShadowVisible = False
+      ActiveTrigger = Selected
+      ActiveColor = xFF222222
+    end
+  end
+  object TLayout
+    StyleName = 'SubListBoxItem'
+    Align = Center
+    Size.Width = 786.000000000000000000
+    Size.Height = 70.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    object TActiveStyleObject
+      StyleName = 'background_separatorbottom'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_sharp'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_roundbottom'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_roundtop'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'background_roundall'
+      Align = Contents
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 786.000000000000000000
+      Size.Height = 70.000000000000000000
+      Size.PlatformDefault = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 51.000000000000000000
+          SourceRect.Top = 146.000000000000000000
+          SourceRect.Right = 79.000000000000000000
+          SourceRect.Bottom = 195.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 72.000000000000000000
+          SourceRect.Top = 216.000000000000000000
+          SourceRect.Right = 114.000000000000000000
+          SourceRect.Bottom = 290.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 96.000000000000000000
+          SourceRect.Top = 288.000000000000000000
+          SourceRect.Right = 152.000000000000000000
+          SourceRect.Bottom = 386.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 144.000000000000000000
+          SourceRect.Top = 432.000000000000000000
+          SourceRect.Right = 228.000000000000000000
+          SourceRect.Bottom = 579.000000000000000000
+        end>
+      SourceLink = <
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          SourceRect.Left = 6.000000000000000000
+          SourceRect.Top = 148.000000000000000000
+          SourceRect.Right = 32.000000000000000000
+          SourceRect.Bottom = 193.000000000000000000
+        end
+        item
+          CapInsets.Left = 2.000000000000000000
+          CapInsets.Top = 2.000000000000000000
+          CapInsets.Right = 2.000000000000000000
+          CapInsets.Bottom = 2.000000000000000000
+          Scale = 1.500000000000000000
+          SourceRect.Left = 4.000000000000000000
+          SourceRect.Top = 218.000000000000000000
+          SourceRect.Right = 43.000000000000000000
+          SourceRect.Bottom = 288.000000000000000000
+        end
+        item
+          CapInsets.Left = 4.000000000000000000
+          CapInsets.Top = 4.000000000000000000
+          CapInsets.Right = 4.000000000000000000
+          CapInsets.Bottom = 4.000000000000000000
+          Scale = 2.000000000000000000
+          SourceRect.Left = 5.000000000000000000
+          SourceRect.Top = 291.000000000000000000
+          SourceRect.Right = 50.000000000000000000
+          SourceRect.Bottom = 383.000000000000000000
+        end
+        item
+          CapInsets.Left = 6.000000000000000000
+          CapInsets.Top = 6.000000000000000000
+          CapInsets.Right = 6.000000000000000000
+          CapInsets.Bottom = 6.000000000000000000
+          Scale = 3.000000000000000000
+          SourceRect.Left = 7.000000000000000000
+          SourceRect.Top = 436.000000000000000000
+          SourceRect.Right = 69.000000000000000000
+          SourceRect.Bottom = 575.000000000000000000
+        end>
+      TouchAnimation.Link = <
+        item
+          SourceRect.Left = 336.000000000000000000
+          SourceRect.Top = 233.000000000000000000
+          SourceRect.Right = 396.000000000000000000
+          SourceRect.Bottom = 293.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 506.000000000000000000
+          SourceRect.Top = 363.000000000000000000
+          SourceRect.Right = 596.000000000000000000
+          SourceRect.Bottom = 453.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 654.000000000000000000
+          SourceRect.Top = 466.000000000000000000
+          SourceRect.Right = 774.000000000000000000
+          SourceRect.Bottom = 586.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 1009.000000000000000000
+          SourceRect.Top = 704.000000000000000000
+          SourceRect.Right = 1189.000000000000000000
+          SourceRect.Bottom = 884.000000000000000000
+        end>
+      Opaque = True
+      object TStyleObject
+        Align = Bottom
+        SourceLookup = 'AndroidL Lightstyle.png'
+        Position.Y = 68.000000000000000000
+        Size.Width = 786.000000000000000000
+        Size.Height = 2.000000000000000000
+        Size.PlatformDefault = False
+        SourceLink = <
+          item
+            CapInsets.Left = 2.000000000000000000
+            CapInsets.Right = 2.000000000000000000
+            SourceRect.Left = 81.000000000000000000
+            SourceRect.Top = 149.000000000000000000
+            SourceRect.Right = 117.000000000000000000
+            SourceRect.Bottom = 151.000000000000000000
+          end
+          item
+            CapInsets.Left = 3.000000000000000000
+            CapInsets.Right = 3.000000000000000000
+            Scale = 1.500000000000000000
+            SourceRect.Left = 180.000000000000000000
+            SourceRect.Top = 290.000000000000000000
+            SourceRect.Right = 233.000000000000000000
+            SourceRect.Bottom = 293.000000000000000000
+          end
+          item
+            CapInsets.Left = 4.000000000000000000
+            CapInsets.Right = 4.000000000000000000
+            Scale = 2.000000000000000000
+            SourceRect.Left = 156.000000000000000000
+            SourceRect.Top = 294.000000000000000000
+            SourceRect.Right = 228.000000000000000000
+            SourceRect.Bottom = 298.000000000000000000
+          end
+          item
+            CapInsets.Left = 6.000000000000000000
+            CapInsets.Right = 6.000000000000000000
+            Scale = 3.000000000000000000
+            SourceRect.Left = 234.000000000000000000
+            SourceRect.Top = 441.000000000000000000
+            SourceRect.Right = 342.000000000000000000
+            SourceRect.Bottom = 447.000000000000000000
+          end>
+      end
+    end
+    object TActiveStyleObject
+      StyleName = 'accessorymore'
+      Align = MostRight
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 30.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      WrapMode = Center
+      Visible = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      SourceLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      TouchAnimation.Link = <>
+    end
+    object TActiveStyleObject
+      StyleName = 'accessorycheckmark'
+      Align = MostRight
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 30.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      WrapMode = Center
+      Visible = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          SourceRect.Left = 269.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 301.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 416.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 464.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 525.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 589.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 789.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 885.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      SourceLink = <
+        item
+          SourceRect.Left = 269.000000000000000000
+          SourceRect.Top = 333.000000000000000000
+          SourceRect.Right = 301.000000000000000000
+          SourceRect.Bottom = 365.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 416.000000000000000000
+          SourceRect.Top = 512.000000000000000000
+          SourceRect.Right = 464.000000000000000000
+          SourceRect.Bottom = 560.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 525.000000000000000000
+          SourceRect.Top = 662.000000000000000000
+          SourceRect.Right = 589.000000000000000000
+          SourceRect.Bottom = 726.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 789.000000000000000000
+          SourceRect.Top = 999.000000000000000000
+          SourceRect.Right = 885.000000000000000000
+          SourceRect.Bottom = 1095.000000000000000000
+        end>
+      TouchAnimation.Link = <>
+    end
+    object TActiveStyleObject
+      StyleName = 'accessorydetail'
+      Align = MostRight
+      SourceLookup = 'AndroidL Lightstyle.png'
+      Size.Width = 40.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      WrapMode = Center
+      Visible = False
+      ActiveTrigger = Selected
+      ActiveLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 366.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 398.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 563.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 611.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 727.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 791.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 1096.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1192.000000000000000000
+        end>
+      SourceLink = <
+        item
+          SourceRect.Left = 170.000000000000000000
+          SourceRect.Top = 366.000000000000000000
+          SourceRect.Right = 202.000000000000000000
+          SourceRect.Bottom = 398.000000000000000000
+        end
+        item
+          Scale = 1.500000000000000000
+          SourceRect.Left = 263.000000000000000000
+          SourceRect.Top = 563.000000000000000000
+          SourceRect.Right = 311.000000000000000000
+          SourceRect.Bottom = 611.000000000000000000
+        end
+        item
+          Scale = 2.000000000000000000
+          SourceRect.Left = 330.000000000000000000
+          SourceRect.Top = 727.000000000000000000
+          SourceRect.Right = 394.000000000000000000
+          SourceRect.Bottom = 791.000000000000000000
+        end
+        item
+          Scale = 3.000000000000000000
+          SourceRect.Left = 498.000000000000000000
+          SourceRect.Top = 1096.000000000000000000
+          SourceRect.Right = 594.000000000000000000
+          SourceRect.Bottom = 1192.000000000000000000
+        end>
+      TouchAnimation.Link = <>
+    end
+    object TCheckBox
+      StyleName = 'check'
+      Align = MostLeft
+      CanFocus = False
+      DisableFocusEffect = True
+      Margins.Left = 10.000000000000000000
+      Size.Width = 25.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'ListBoxItem2Style1CheckBoxStyle1'
+      Visible = False
+    end
+    object TGlyph
+      StyleName = 'glyphstyle'
+      Margins.Left = 2.000000000000000000
+      Margins.Top = 2.000000000000000000
+      Margins.Right = 2.000000000000000000
+      Margins.Bottom = 2.000000000000000000
+      Align = MostLeft
+      Size.Width = 44.000000000000000000
+      Size.Height = 16.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object TActiveStyleTextObject
+      StyleName = 'detail'
+      Align = Contents
+      Margins.Left = 15.000000000000000000
+      Margins.Top = 1.000000000000000000
+      Margins.Right = 1.000000000000000000
+      Margins.Bottom = 1.000000000000000000
+      Size.Width = 770.000000000000000000
+      Size.Height = 68.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'detial'
+      TextSettings.Font.Family = '@Arial Unicode MS'
+      TextSettings.Font.Size = 14.000000000000000000
+      TextSettings.Trimming = Character
+      TextSettings.WordWrap = False
+      TextSettings.HorzAlign = Leading
+      ShadowVisible = False
+      ActiveTrigger = Selected
+      ActiveColor = claBlack
+    end
+    object TActiveStyleTextObject
+      StyleName = 'text'
+      Align = Contents
+      Margins.Left = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Size.Width = 766.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Text'
+      TextSettings.Font.Size = 18.000000000000000000
+      TextSettings.FontColor = xFF222222
+      TextSettings.Trimming = Character
+      TextSettings.WordWrap = False
+      TextSettings.HorzAlign = Leading
+      Visible = False
+      ShadowVisible = False
+      ActiveTrigger = Selected
+      ActiveColor = xFF222222
+    end
+    object TImage
+      StyleName = 'icon'
+      MultiResBitmap = <
+        item
+        end>
+      Align = MostLeft
+      HitTest = False
+      Position.X = 20.000000000000000000
+      Size.Width = 44.000000000000000000
+      Size.Height = 44.000000000000000000
+      Size.PlatformDefault = False
+      Visible = False
+    end
+  end
+end

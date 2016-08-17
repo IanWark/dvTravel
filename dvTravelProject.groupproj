@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{AD99115E-1236-46A2-95FF-A3169E89C763}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="dvTravelClient\dvTravel.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="dvTravelServer\dvTravelServer.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="dvTravel">
+        <MSBuild Projects="dvTravelClient\dvTravel.dproj"/>
+    </Target>
+    <Target Name="dvTravel:Clean">
+        <MSBuild Projects="dvTravelClient\dvTravel.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="dvTravel:Make">
+        <MSBuild Projects="dvTravelClient\dvTravel.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="dvTravelServer">
+        <MSBuild Projects="dvTravelServer\dvTravelServer.dproj"/>
+    </Target>
+    <Target Name="dvTravelServer:Clean">
+        <MSBuild Projects="dvTravelServer\dvTravelServer.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="dvTravelServer:Make">
+        <MSBuild Projects="dvTravelServer\dvTravelServer.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="dvTravel;dvTravelServer"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="dvTravel:Clean;dvTravelServer:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="dvTravel:Make;dvTravelServer:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
