@@ -1,5 +1,5 @@
 # dvTravel
-dvTravel is a a Windows and soon to be iPad application made in Delphi for Casa Dulce Vida (www.dulcevida.com/), a “boutique hotel” in Mexico, to manage their client's bookings and payments.
+dvTravel is a a Windows and soon to be iPad application made in Delphi for Casa Dulce Vida (www.dulcevida.com/), a “boutique hotel” in Mexico, to assist in managing their client's bookings and payments.
 
 The client application connects to a middle-tier server connected to the database, which processes and returns the results to the client. Both the middle-tier server and the database itself are hosted on Amazon Web Services.
 
