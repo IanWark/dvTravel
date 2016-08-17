@@ -13,7 +13,7 @@ It is based off a previous application that ended up being used for 15 years, an
 Delphi is an IDE with a visual form designer, so without actually owning Delphi and being able to open the project it can be a bit hard to read.
 The .pas files are the main code parts, though they often rely on objects in the forms, defined in the .fmx files.
 
-#Github Repository Code
+#Notes on the code
 This code won't actually work properly and no executables are supplied because the database, server, and connections between all the different parts (database, server, and client) are all not properly set up in this because the information used for that is private. However otherwise all the code is the same as what is running in the video demo (www.youtube.com/watch?v=yDamSvKMYF8)
 
 The whole project is in two applications:
