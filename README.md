@@ -19,7 +19,7 @@ This code won't actually work properly and no executables are supplied because t
 The whole project is in two applications:
 
 dvTravelServer: The middle-tier server that connects the database and the client and processes the information between. On the actual version it is running on an Amazon Web Services instance.
-  - Most important file is ServerMethodsUnit.pas
+  - Most important file is ServerMethodsUnit.pas.
 
 dvTravelClient: The client application used by the user. Manages bookings, payments, and invoices. Application is split into 4 tabs, Home, Clients, Bookings, Calendar.	
   - Important files are all in Clients, Bookings, or Calendar folders, as well as Main, ResizeForm, DataController, Home, Search, and Settings.
