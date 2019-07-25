@@ -1,5 +1,5 @@
 # dvTravel
-dvTravel is a a Windows made in Delphi for Casa Dulce Vida (www.dulcevida.com/), a “boutique hotel” in Mexico, to assist in managing their client's bookings and payments.
+dvTravel is a Windows application made in Delphi for Casa Dulce Vida (www.dulcevida.com/), a “boutique hotel” in Mexico, to assist in managing their client's bookings and payments.
 
 Video Demo: www.youtube.com/watch?v=yDamSvKMYF8
 
@@ -16,7 +16,7 @@ Delphi is an IDE with a visual form designer, so without actually owning Delphi 
 The .pas files are the main code parts, though they often rely on objects in the forms, defined in the .fmx files.
 
 ## Notes on the code
-This code won't actually work properly and no executables are supplied because the database, server, and connections between all the different parts (database, server, and client) are all not properly set up in this because the information used for that is private. However otherwise all the code is the same as what is running in the video demo (www.youtube.com/watch?v=yDamSvKMYF8)
+This code won't actually work properly and no executables are supplied because the database, server, and connections between all the different parts (database, server, and client) are all not properly set up in this because the information used for that is private. However otherwise all the code is the same as what is running in the [video demo](https://www.youtube.com/watch?v=yDamSvKMYF8)
 
 The whole project is in two applications:
 
